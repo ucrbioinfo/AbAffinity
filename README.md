@@ -28,6 +28,8 @@ cd src
 pip install .
 ```
 
+If you need the model weights, it is available here - https://drive.google.com/file/d/1sqhgShCP5J78hTPn_tGXnJt_Pfs1dsN3/view?usp=sharing 
+
 ## **Usage**
 
 Here's a quick example to get started:
