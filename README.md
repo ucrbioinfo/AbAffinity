@@ -13,7 +13,7 @@
 
 ## **Installation**
 
-You can install `AbAffinity` from Huggingface: 
+You can install `AbAffinity` using the following command: 
 
 ```bash
 pip install git+https://huggingface.co/faisalashraf/abaffinity
