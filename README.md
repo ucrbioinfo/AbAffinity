@@ -13,22 +13,20 @@
 
 ## **Installation**
 
-You can install `AbAffinity` from PyPI:
+You can install `AbAffinity` from Huggingface: 
 
 ```bash
-pip install AbAffinity
+pip install git+https://huggingface.co/faisalashraf/abaffinity
 ```
 
-If you’d like to install the package directly from the source (for example, if you’ve cloned or downloaded the repository), you can do so using the setup.py file. Make sure that you have the model weights downloaded in the AbAffinity directory.
+You can also install it in a local folder:
 
 ```bash
-git clone https://github.com/fbabd/AbAffinity_SARS-CoV-2.git
-cd AbAffinity_SARS-CoV-2
-cd src 
+git lfs install
+git clone https://huggingface.co/faisalashraf/abaffinity
+cd abaffinity 
 pip install .
 ```
-
-If you need the model weights, it is available here - https://drive.google.com/file/d/1sqhgShCP5J78hTPn_tGXnJt_Pfs1dsN3/view?usp=sharing 
 
 ## **Usage**
 
